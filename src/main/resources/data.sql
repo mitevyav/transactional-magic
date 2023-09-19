@@ -1,0 +1,1 @@
+insert into book (id, name, author) values (1, 'The Lord of the Rings', 'J. R. R. Tolkien');
